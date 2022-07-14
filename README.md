@@ -6,4 +6,4 @@
 
 :computer: I'm currently learning Python 3.10 , C, C++, Java, HTML5, MySQl.
 
-:envelope: Feel free to ask anything here #https://github.com/issues
+:envelope: Feel free to ask anything [Here](https://github.com/issues)
