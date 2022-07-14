@@ -7,3 +7,8 @@
 :computer: I'm currently learning Python 3.10 , C, C++, Java, HTML5, MySQl.
 
 :envelope: Feel free to ask anything [Here](https://github.com/issues)
+
+# Connect with me 
+[<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />](https://www.linkedin.com/in/gopal-singh-49b62a166/)
+[<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />](https://www.instagram.com/gopal_singh_rajput_14/)
+[<img src="{https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white}" />](https://www.hackerrank.com/gopal_singh_raj1)
