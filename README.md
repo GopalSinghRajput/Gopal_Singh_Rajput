@@ -1,4 +1,4 @@
-# Hola, I,m Gopal Singh Rajput
+# Hola, MySelf Gopal Singh Rajput
 
 :school: I am currently a student at the Vellore Institute of Technology, Chennai.
 
